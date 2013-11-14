@@ -113,6 +113,9 @@ Other:
 
  * userAgent: String, defaults to "node-crawler/[version]"
 
+Result object
+-------------
+
 
 Memory leaks
 ------------
