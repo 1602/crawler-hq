@@ -18,7 +18,7 @@ Help & Forks welcomed!
 How to install
 --------------
 
-    $ npm install crawler
+    $ npm install crawler-hq
 
 
 Crash course
